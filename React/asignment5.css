@@ -1,0 +1,62 @@
+.container{
+    position: fixed;
+}
+
+.top{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(39, 34, 34);
+}
+.top img{
+    width: 30px;
+    height: 35px;
+    margin-top: 35px;
+    margin-left: 150px;
+}
+.top p{
+    color: rgb(118, 236, 240);
+    font-size: 30px;
+    margin-right: 790px;
+}
+.top h3{
+    color: white;
+    font-size: 15px;
+    margin-right: 60px;
+    margin-top: 40px;
+}
+
+
+.container{
+    background-color: rgb(46, 43, 43);
+}
+
+
+
+.main{
+    color: white;
+    height: 900px;
+    padding: 300px;
+    padding-top: 50px;
+}
+
+h1{
+    padding-bottom: 30px;
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+
+
+li{
+    font-size: 27px;
+}
+
+
+/* ul li ::before{
+    content: "•";
+    color:rgb(118, 236, 240);
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+} */
+

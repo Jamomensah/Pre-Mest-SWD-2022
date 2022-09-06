@@ -1,0 +1,76 @@
+.top{
+    box-shadow: 5px 5px 25px rgb(214, 211, 211);
+    padding: 15px;
+}
+.top img{
+    width: 150px;
+    margin-right: 60rem;
+    margin-top: 1rem;
+}
+
+
+.hero img{
+    margin-top: 50px;
+}
+.hero h1{
+    text-align: left;
+    margin-left: 30px;
+}
+.hero p{
+    text-align: left;
+    margin-left: 30px;
+}
+
+
+.gallery{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.title h3{
+    font-weight: lighter;
+}
+span{
+    font-weight: lighter;
+    color: rgb(138, 134, 134);
+}
+
+
+.kid{
+    display: flex;
+    margin-left: 12px;
+}
+.star{
+    width: 15px;
+    height: 15px;
+    margin-top: 20px;
+    margin-left: -15px;
+    margin-right: 5px;
+}
+
+.sub{
+    text-align: left;
+}
+
+.children{
+    position: absolute;
+    background-color: white;
+    border-radius: 3px;
+    margin-left: 5px;
+    margin-bottom: 35px;
+    padding: 1px;
+    width: 100px;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
